@@ -131,7 +131,7 @@ var scenes;
                 managers.Collision.Check(that._road, that._barrel, that._roadblock2, that);
                 managers.Collision.Check(that._road, that._barrel1, that._roadblock2, that);
                 managers.Collision.Check(that._road, that._barrel2, that._roadblock2, that);
-            }, 1500);
+            }, 1000);
             if (this._scoreBoard.Lives <= 0 || this._scoreBoard.Score < 0) {
                 objects.Game.currentScene = config.Scene.OVER;
             }

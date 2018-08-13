@@ -37,7 +37,7 @@
         {        id: "barrel" ,src: "./Assets/images/coin.png"},
         {        id: "SettingButton",src:"./Assets/images/SettingButton.png"},
         {        id: "roadblock" ,src: "./Assets/images/roadblock.png"},
-        {id: "car_engine", src:"/Assets/audio/car_engine.ogg"},
+        {        id: "car_engine", src:"./Assets/audio/car_engine.ogg"}
         
     ]
     /**
